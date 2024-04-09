@@ -1,0 +1,34 @@
+.navBarDropdown{
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid rgb(197, 196, 196);  
+    padding-bottom: 2px;
+}
+
+.navBarEffects{
+    border-radius: 30px;
+    padding: 10px;
+    transition: .5s ease-out;
+
+}
+
+.navBarEffects:hover{
+    background-color: rgb(233, 231, 231);
+    transition: .5s ease-in;
+}
+
+.filterBar{
+    border-radius: 30px;
+    padding: 5px;
+    border:solid rgb(231, 231, 231) 1px
+}
+
+.customImage{
+    width:400px;
+}
+
+.arrowGrey{
+    position: relative;
+    right:-20px;
+    bottom:20px;
+}
